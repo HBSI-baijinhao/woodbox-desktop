@@ -1,4 +1,4 @@
-# woodbox-web
+# woodbox-desktop
 
 ## Project setup
 ```
